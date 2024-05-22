@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: wp-page-custom-css-file
-Plugin URI: 
+Plugin URI: https://github.com/hsgw/wp-page-custom-css-file
 Description: 
 Version: 1.0.1
 Author: Takuya Urakawa
 Author URI: 
-License: GPLv2 or later
+License: CC0 1.0
 */
 
 add_action('admin_menu', 'custom_css_file_add_meta_box');
